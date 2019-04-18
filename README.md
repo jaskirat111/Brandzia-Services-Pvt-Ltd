@@ -5,3 +5,8 @@ Web Based Application (Live Project)
 
 
 View Live at : http://brandzia.in/
+
+
+Steps:
+1. npm install
+2. npm start
